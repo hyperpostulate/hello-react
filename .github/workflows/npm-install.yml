@@ -1,4 +1,4 @@
-name: npm install
+name: NPM Install
 
 on:
   push:

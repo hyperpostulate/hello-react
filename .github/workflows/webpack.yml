@@ -1,4 +1,4 @@
-name: PNPM Install
+name: npm install
 
 on:
   push:
@@ -24,4 +24,4 @@ jobs:
 
     - name: Build
       run: |
-        pnpm install
+        npm install
